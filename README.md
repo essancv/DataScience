@@ -173,7 +173,7 @@ Curso de IBM en Data Science
 <tr>
 <td>Fully Integrated Visual  Tools</td>
 <td><ul>
-       <li>Knime</li>
+       <li><a href="https://www.knime.com/">Knime</a></li>
        <li>Orange</li>
     </ul></td>
 <td></td>
