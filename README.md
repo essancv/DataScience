@@ -2,6 +2,8 @@
 Curso de IBM en Data Science
 ## Tools for Data Science
 
+![image](https://user-images.githubusercontent.com/80818699/111492814-49739b00-873d-11eb-8522-c3d6541c9e6b.png)
+
 <table style="width:20%">
 <tr>
 <th>Categorie </th>
